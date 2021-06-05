@@ -1,21 +1,15 @@
 header {
   text-align: center
 }
+
 body {
   margin: 0;
   background-color:#003366;
-  width: 300px;
-  margin: auto;
-}
-
-body {
-  border: 3px solid #668284;
-  padding: 10px;
 }
 
 .center {
   margin: auto;
   width: 50%;
-  border: 3px solid green;
+  border: 3px #006666;
   padding: 10px;
 }
