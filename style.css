@@ -1,14 +1,5 @@
-header {
-  text-align: center
-}
-
 body {
   margin: 0;
   background-color:#003366;
 }
 
-.center {
-  margin: auto;
-  border: 3px #006666;
-  padding: 10px;
-}
