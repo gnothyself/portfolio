@@ -3,11 +3,31 @@ body {
   background-color:#003366;
 }
 
-nav,
-div {
+h1{
+  text-align: center;
+  color: #006666;
+  font-size: 50px
+}
+
+nav,{
   width: 500px;
   margin: auto;
   padding: 10px;
   background-color: #006666;
 }
 
+article {
+  width: 500px;
+  margin: auto;
+  padding: 10px;
+  background-color: #006666;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 90%;
+}
