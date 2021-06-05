@@ -11,7 +11,7 @@ h1{
 
 h2{
   text-align: center;
-  font-style: italix;
+  font-style: italic;
 }
 
 nav{
@@ -19,16 +19,22 @@ nav{
   width: 500px;
   margin: auto;
   padding: 10px;
-  background-color: #006666;
+  font-size: 27px;
 }
 
 article {
+  font-family: arial;
+  font-size: 14px;
+  line-height: 25px;
   width: 500px;
   margin: auto;
-  padding: 10px;
+  padding: 20px;
   background-color: #006666;
 }
 
+p{
+  text-indent: 30px;
+}
 .center {
   display: block;
   margin-left: auto;
@@ -37,3 +43,5 @@ article {
   margin-bottom: 20px;
   width: 90%;
 }
+
+a:link{ color: #003366 }
