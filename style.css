@@ -2,7 +2,8 @@ header{
   height: auto
 }
 main {
-  color: #99CCCC
+  color: #99CCCC;
+  font-weight: bold;
 }
 h1{
   text-align: center;
